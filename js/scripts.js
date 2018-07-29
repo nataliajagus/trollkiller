@@ -47,7 +47,7 @@
 
     let myTrollKiller = new TrollKiller(
         document.querySelector("[name='your-message']"),
-        "holy cow, bastard, bloody, dammit, damn"
+        "your censored word, another censored word"
     );
 
 })();
